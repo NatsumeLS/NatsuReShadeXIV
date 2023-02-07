@@ -20,6 +20,11 @@ Feel free add your own presets to `natsu-presets` and shaders in `natsu-shaders\
 
 If I missed any shaders, please don't hesitate to ask me to include them.
 
+# Preview
+**Click on image to view**
+
+[![View](Preview/Natsu.png)](https://imgsli.com/MTUzNDc3)
+
 # Included Presets
 
 Suitable for both gameplay and screenshot usage.
