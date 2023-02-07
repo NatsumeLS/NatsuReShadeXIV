@@ -1,0 +1,27 @@
+[submodule "natsu-shaders/ReShade"]
+	path = natsu-shaders/ReShade
+	url = https://github.com/crosire/reshade-shaders
+[submodule "natsu-shaders/qUINT"]
+	path = natsu-shaders/qUINT
+	url = https://github.com/martymcmodding/qUINT
+[submodule "natsu-shaders/FXShaders"]
+	path = natsu-shaders/FXShaders
+	url = https://github.com/luluco250/FXShaders
+[submodule "natsu-shaders/ReshadeTFAA/Shaders"]
+	path = natsu-shaders/ReshadeTFAA/Shaders
+	url = https://github.com/JakobPCoder/ReshadeTFAA
+[submodule "natsu-shaders/ReshadeMotionEstimation/Shaders"]
+	path = natsu-shaders/ReshadeMotionEstimation/Shaders
+	url = https://github.com/JakobPCoder/ReshadeMotionEstimation
+[submodule "natsu-shaders/Insane-Shaders"]
+	path = natsu-shaders/Insane-Shaders
+	url = https://github.com/LordOfLunacy/Insane-Shaders
+[submodule "natsu-shaders/AstrayFX"]
+	path = natsu-shaders/AstrayFX
+	url = https://github.com/BlueSkyDefender/AstrayFX
+[submodule "natsu-shaders/MShaders"]
+	path = natsu-shaders/MShaders
+	url = https://github.com/siriusinko/MShaders
+[submodule "natsu-shaders/Glamarye"]
+	path = natsu-shaders/Glamarye
+	url = https://github.com/rj200/Glamarye_Fast_Effects_for_ReShade
