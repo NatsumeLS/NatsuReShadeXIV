@@ -25,3 +25,6 @@
 [submodule "natsu-shaders/Glamarye"]
 	path = natsu-shaders/Glamarye
 	url = https://github.com/rj200/Glamarye_Fast_Effects_for_ReShade
+[submodule "natsu-shaders/iMMERSE"]
+	path = natsu-shaders/iMMERSE
+	url = https://github.com/martymcmodding/iMMERSE
