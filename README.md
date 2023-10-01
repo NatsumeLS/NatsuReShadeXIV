@@ -1,48 +1,42 @@
 # NatsuReShadeXIV
+
 ![License Badge](https://img.shields.io/badge/license-BSD-green)
 
-A distribution of my ReShade setup with specific configurations tailored toward the critically acclaimed MMORPG Final Fantasy XIV
+A distribution of my ReShade setup with specific configurations tailored toward the critically acclaimed MMORPG Final Fantasy XIV.
 
-# Installation
+## Guide
 
-[[Download Latest](https://github.com/NatsumeLS/NatsuReShadeXIV/releases/latest)]
+### 1. Download
 
-Extract `NatsuReShadeXIV_vx.x.zip`
+📁 [Got to Download Page](https://github.com/NatsumeLS/NatsuReShadeXIV/releases/latest)
 
-in `C:\Program Files (x86)\SquareEnix\FINAL FANTASY XIV - A Realm Reborn\game`
+### 2. Install
 
-*ReShade binaries are included for convenience.
+Extract `NatsuReShadeXIV_vx.x.zip` at `FINAL FANTASY XIV - A Realm Reborn\game` (Game Location)
 
-However, I still recommend getting them yourself from [here](https://reshade.me/). (Download one with full add-on support)
+Example `C:\Program Files (x86)\SquareEnix\FINAL FANTASY XIV - A Realm Reborn\game`
 
-# Presets / Shaders
-Feel free add your own presets to `natsu-presets` and shaders in `natsu-shaders\Custom`
+## Presets / Shaders
+
+Feel free add your own presets to `natsu-presets` and shaders in `natsu-shaders`
 
 If I missed any shaders, please don't hesitate to ask me to include them.
 
-# Preview
-**Click on image to view**
+## Included Preset
 
-[![View](Preview/Natsu.png)](https://imgsli.com/MTUzNDc3)
+**NatsuReShadeXIV** is suitable for both gameplay and screenshot usage.
 
-# Included Presets
+Focus on being as close to original visual as possible while not being oversaturated.
 
-Suitable for both gameplay and screenshot usage.
+**Click on image to view comparision**
+[![View](Previews/1.png)](https://imgsli.com/MjEwNjkz)
+[![View](Previews/2.png)](https://imgsli.com/MjEwNjk0)
 
-Focus on being as close to real lighting as possible while not being oversaturated.
+## Recommended In-Game Settings
 
-- **NatsuReShadeXIV** *Free
-- **NatsuReGradeXIV** *Requires qUINT ReGrade, RTGI, and Physical DOF. From [Pascal Gilcher's Patreon](https://www.patreon.com/mcflypg)
-
-**RTGlobalIllumination** is enabled by default (NVIDIA RTX 3060 / AMD RX 6600 or better is recommended)
-
-Enable **PhysicalDOF_MKII** for additional Depth of Field effect (Focus with Middle Mouse button)
-
-Enable **Atmospheric Density** for fog effect
-
-# Recommended In-Game Settings
 - Edge Smoothing (Anti-aliasing): FXAA
 - Transparent Lighting Quality: High
 
-# Contact
-Discord: NatsumeLS#1123
+## Contact
+
+[NatsumeLS](https://natsume.io/)
