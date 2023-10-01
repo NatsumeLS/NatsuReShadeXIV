@@ -22,17 +22,17 @@ Example `C:\Program Files (x86)\SquareEnix\FINAL FANTASY XIV - A Realm Reborn\ga
 - Edge Smoothing (Anti-aliasing): FXAA
 - Transparent Lighting Quality: High
 
-## Presets / Shaders
-
-Feel free add your own presets to `natsu-presets` and shaders in `natsu-shaders`
-
-If I missed any shaders, please don't hesitate to ask me to include them.
-
 ## Included Preset
 
 **NatsuReShadeXIV** is suitable for both gameplay and screenshot usage.
 
 Focus on being as close to original visual as possible while not being oversaturated.
+
+### Features
+> - Global Illumination
+> - Subsurface Scattering
+> - Always On Depth of Field
+> - Textures Ambient Occlusion
 
 **Click on image to view comparision**
 [![View](Previews/1.png)](https://imgsli.com/MjEwNjk0)
