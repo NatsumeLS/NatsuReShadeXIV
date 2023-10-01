@@ -29,8 +29,9 @@ If I missed any shaders, please don't hesitate to ask me to include them.
 Focus on being as close to original visual as possible while not being oversaturated.
 
 **Click on image to view comparision**
-[![View](Previews/1.png)](https://imgsli.com/MjEwNjkz)
-[![View](Previews/2.png)](https://imgsli.com/MjEwNjk0)
+[![View](Previews/1.png)](https://imgsli.com/MjEwNjk0)
+[![View](Previews/2.png)](https://imgsli.com/MjEwNjk2)
+[![View](Previews/3.png)](https://imgsli.com/MjEwNjk3)
 
 ## Recommended In-Game Settings
 
