@@ -16,6 +16,12 @@ Extract `NatsuReShadeXIV_vx.x.zip` at `FINAL FANTASY XIV - A Realm Reborn\game` 
 
 Example `C:\Program Files (x86)\SquareEnix\FINAL FANTASY XIV - A Realm Reborn\game`
 
+### 3. Recommended In-Game Settings
+
+- Full Screen Mode Gamma Correction: 0
+- Edge Smoothing (Anti-aliasing): FXAA
+- Transparent Lighting Quality: High
+
 ## Presets / Shaders
 
 Feel free add your own presets to `natsu-presets` and shaders in `natsu-shaders`
@@ -32,12 +38,3 @@ Focus on being as close to original visual as possible while not being oversatur
 [![View](Previews/1.png)](https://imgsli.com/MjEwNjk0)
 [![View](Previews/2.png)](https://imgsli.com/MjEwNjk2)
 [![View](Previews/3.png)](https://imgsli.com/MjEwNjk3)
-
-## Recommended In-Game Settings
-
-- Edge Smoothing (Anti-aliasing): FXAA
-- Transparent Lighting Quality: High
-
-## Contact
-
-[NatsumeLS](https://natsume.io/)
