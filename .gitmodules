@@ -19,3 +19,6 @@
 [submodule "natsu-shaders/iMMERSE"]
 	path = natsu-shaders/iMMERSE
 	url = https://github.com/martymcmodding/iMMERSE
+[submodule "natsu-shaders/ReshadeEffectShaderToggler"]
+	path = natsu-shaders/ReshadeEffectShaderToggler
+	url = https://github.com/4lex4nder/ReshadeEffectShaderToggler
