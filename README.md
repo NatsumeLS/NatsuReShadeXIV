@@ -18,9 +18,10 @@ Example `C:\Program Files (x86)\SquareEnix\FINAL FANTASY XIV - A Realm Reborn\ga
 
 ### 3. Recommended In-Game Settings
 
-- Full Screen Mode Gamma Correction: 0
+- Full Screen Mode Gamma Correction: 50
 - Edge Smoothing (Anti-aliasing): FXAA
 - Transparent Lighting Quality: High
+- Screen Space Ambient Occlusion: Off
 
 ## Included Preset
 
@@ -29,10 +30,13 @@ Example `C:\Program Files (x86)\SquareEnix\FINAL FANTASY XIV - A Realm Reborn\ga
 Focus on being as close to original visual as possible while not being oversaturated.
 
 ### Features
+
 > - Global Illumination
 > - Subsurface Scattering
 > - Always On Depth of Field
-> - Textures Ambient Occlusion
+> - Ambient Occlusion
+> - Eye Adaption
+> - Anti Aliasing
 
 **Click on image to view comparision**
 [![View](Previews/1.png)](https://imgsli.com/MjEwNjk0)
