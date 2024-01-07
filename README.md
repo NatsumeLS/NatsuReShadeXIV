@@ -22,6 +22,7 @@ Example `C:\Program Files (x86)\SquareEnix\FINAL FANTASY XIV - A Realm Reborn\ga
 - Edge Smoothing (Anti-aliasing): FXAA
 - Transparent Lighting Quality: High
 - Screen Space Ambient Occlusion: Off
+- Enable depth of field: Off
 
 ## Included Preset
 
