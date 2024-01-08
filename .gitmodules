@@ -7,9 +7,6 @@
 [submodule "natsu-shaders/ReshadeTFAA/Shaders"]
 	path = natsu-shaders/ReshadeTFAA/Shaders
 	url = https://github.com/JakobPCoder/ReshadeTFAA
-[submodule "natsu-shaders/ReshadeMotionEstimation/Shaders"]
-	path = natsu-shaders/ReshadeMotionEstimation/Shaders
-	url = https://github.com/JakobPCoder/ReshadeMotionEstimation
 [submodule "natsu-shaders/AstrayFX"]
 	path = natsu-shaders/AstrayFX
 	url = https://github.com/BlueSkyDefender/AstrayFX
