@@ -16,13 +16,16 @@ Extract `NatsuReShadeXIV_vx.x.zip` at `FINAL FANTASY XIV - A Realm Reborn\game` 
 
 Example `C:\Program Files (x86)\SquareEnix\FINAL FANTASY XIV - A Realm Reborn\game`
 
-### 3. Recommended In-Game Settings
+### 3. Important In-Game Settings
 
+**Display Settings**
 - Full Screen Mode Gamma Correction: 50
-- Edge Smoothing (Anti-aliasing): FXAA
+
+**Graphic Settings**
+- Edge Smoothing (Anti-aliasing): Off
 - Transparent Lighting Quality: High
 - Screen Space Ambient Occlusion: Off
-- Enable depth of field: Off
+- Enable depth of field.: Off
 
 ## Included Preset
 
