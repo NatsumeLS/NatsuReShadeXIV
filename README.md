@@ -43,7 +43,13 @@ Focus on being as close to original visual as possible while not being oversatur
 > - Eye Adaption
 > - Anti Aliasing
 
-**Click on image to view comparision**
-[![View](Previews/1.png)](https://imgsli.com/MjEwNjk0)
-[![View](Previews/2.png)](https://imgsli.com/MjEwNjk2)
-[![View](Previews/3.png)](https://imgsli.com/MjEwNjk3)
+### Previews
+
+![](https://i.imgur.com/pRTbgcA.jpg)
+![](https://i.imgur.com/5nr6ENJ.jpg)
+![](https://i.imgur.com/Q0baBDp.jpg)
+![](https://i.imgur.com/SeuHSH1.jpg)
+![](https://i.imgur.com/c8d8VbE.jpg)
+![](https://i.imgur.com/ZSdMQvb.jpg)
+![](https://i.imgur.com/qESvqB6.jpg)
+![](https://i.imgur.com/8ZQQijQ.jpg)
