@@ -20,6 +20,7 @@ Example `C:\Program Files (x86)\SquareEnix\FINAL FANTASY XIV - A Realm Reborn\ga
 
 **Display Settings**
 - Full Screen Mode Gamma Correction: 50
+- Character Lighting: 25
 
 **Graphic Settings**
 - Edge Smoothing (Anti-aliasing): Off
