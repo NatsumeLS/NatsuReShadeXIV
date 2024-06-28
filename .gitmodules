@@ -19,9 +19,6 @@
 [submodule "natsu-shaders/ReshadeEffectShaderToggler"]
 	path = natsu-shaders/ReshadeEffectShaderToggler
 	url = https://github.com/4lex4nder/ReshadeEffectShaderToggler
-[submodule "natsu-addons/Shader-Replacer-ReShade-Addon-for-FFXIV"]
-	path = natsu-addons/Shader-Replacer-ReShade-Addon-for-FFXIV
-	url = https://github.com/Spacellary/Shader-Replacer-ReShade-Addon-for-FFXIV
 [submodule "natsu-shaders/ReshadeEffectShaderToggler-FFXIV"]
 	path = natsu-shaders/ReshadeEffectShaderToggler-FFXIV
 	url = https://github.com/4lex4nder/ReshadeEffectShaderToggler-FFXIV
