@@ -23,10 +23,9 @@ Example `C:\Program Files (x86)\SquareEnix\FINAL FANTASY XIV - A Realm Reborn\ga
 - Character Lighting: 25
 
 **Graphic Settings**
-- Graphic Upscaling: NVIDIA DLSS **Prefered for DLAA**
+- Graphic Upscaling: AMD FSR **Very Important**
 - 3D Resolution Scaling: 100 **Very Important**
 - Enable dynamic resolution.: Disabled **Very Important**
-- Frame Rate Threshold: Always Enabled **Very Important**
 - Edge Smoothing (Anti-aliasing): TSCMAA
 - Transparent Lighting Quality: High
 - Screen Space Ambient Occlusion: GTAO: Quality
