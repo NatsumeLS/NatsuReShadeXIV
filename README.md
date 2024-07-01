@@ -48,11 +48,11 @@ Focus on being as close to original visual as possible while not being oversatur
 
 ### Previews
 
-![](https://i.imgur.com/pRTbgcA.jpg)
-![](https://i.imgur.com/5nr6ENJ.jpg)
-![](https://i.imgur.com/Q0baBDp.jpg)
-![](https://i.imgur.com/SeuHSH1.jpg)
-![](https://i.imgur.com/c8d8VbE.jpg)
-![](https://i.imgur.com/ZSdMQvb.jpg)
-![](https://i.imgur.com/qESvqB6.jpg)
-![](https://i.imgur.com/8ZQQijQ.jpg)
+<img align="center" src=/docs/Preview_1.jpeg>
+<img align="center" src=/docs/Preview_2.jpeg>
+<img align="center" src=/docs/Preview_3.jpeg>
+<img align="center" src=/docs/Preview_4.jpeg>
+<img align="center" src=/docs/Preview_5.jpeg>
+<img align="center" src=/docs/Preview_6.jpeg>
+<img align="center" src=/docs/Preview_7.jpeg>
+<img align="center" src=/docs/Preview_8.jpeg>
