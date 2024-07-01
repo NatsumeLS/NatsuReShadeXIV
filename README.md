@@ -19,11 +19,10 @@ Example `C:\Program Files (x86)\SquareEnix\FINAL FANTASY XIV - A Realm Reborn\ga
 ### 3. Important In-Game Settings
 
 **Display Settings**
-- Full Screen Mode Gamma Correction: 49 **Very Important**
+- Full Screen Mode Gamma Correction: 50
 - Character Lighting: 25
 
 **Graphic Settings**
-- Graphic Upscaling: AMD FSR **Very Important**
 - 3D Resolution Scaling: 100 **Very Important**
 - Enable dynamic resolution.: Disabled **Very Important**
 - Edge Smoothing (Anti-aliasing): TSCMAA
