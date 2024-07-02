@@ -18,17 +18,20 @@ Example `C:\Program Files (x86)\SquareEnix\FINAL FANTASY XIV - A Realm Reborn\ga
 
 ### 3. Important In-Game Settings
 
+**NVIDIA DLSS** is supported if the DLAA Only Patch is applied.
+
 **Display Settings**
 - Full Screen Mode Gamma Correction: 50
 - Character Lighting: 25
 
 **Graphic Settings**
-- 3D Resolution Scaling: 100 **Very Important**
-- Enable dynamic resolution.: Disabled **Very Important**
+- Graphics Upscaling: AMD FSR
+- 3D Resolution Scaling: 100
+- Enable dynamic resolution.: Disabled
 - Edge Smoothing (Anti-aliasing): TSCMAA
 - Transparent Lighting Quality: High
 - Screen Space Ambient Occlusion: GTAO: Quality
-- Enable depth of field.: Off
+- Enable depth of field: Off
 
 ## Included Preset
 
