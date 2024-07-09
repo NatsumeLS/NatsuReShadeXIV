@@ -1,12 +1,6 @@
 [submodule "natsu-shaders/ReShade"]
 	path = natsu-shaders/ReShade
 	url = https://github.com/crosire/reshade-shaders
-[submodule "natsu-shaders/qUINT"]
-	path = natsu-shaders/qUINT
-	url = https://github.com/martymcmodding/qUINT
-[submodule "natsu-shaders/ReshadeTFAA/Shaders"]
-	path = natsu-shaders/ReshadeTFAA/Shaders
-	url = https://github.com/JakobPCoder/ReshadeTFAA
 [submodule "natsu-shaders/AstrayFX"]
 	path = natsu-shaders/AstrayFX
 	url = https://github.com/BlueSkyDefender/AstrayFX
@@ -16,6 +10,9 @@
 [submodule "natsu-shaders/iMMERSE"]
 	path = natsu-shaders/iMMERSE
 	url = https://github.com/martymcmodding/iMMERSE
+[submodule "natsu-shaders/qUINT"]
+	path = natsu-shaders/qUINT
+	url = https://github.com/martymcmodding/qUINT
 [submodule "natsu-shaders/ReshadeEffectShaderToggler"]
 	path = natsu-shaders/ReshadeEffectShaderToggler
 	url = https://github.com/4lex4nder/ReshadeEffectShaderToggler
