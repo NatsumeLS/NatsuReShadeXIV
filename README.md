@@ -30,7 +30,7 @@ Example `C:\Program Files (x86)\SquareEnix\FINAL FANTASY XIV - A Realm Reborn\ga
 - Enable dynamic resolution.: Disabled
 - Edge Smoothing (Anti-aliasing): TSCMAA
 - Transparent Lighting Quality: High
-- Screen Space Ambient Occlusion: Off
+- Screen Space Ambient Occlusion: GTAO: Quality
 - Enable depth of field: Off
 
 ## Included Preset
