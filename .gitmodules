@@ -1,10 +1,6 @@
 [submodule "natsu-shaders/AstrayFX"]
 	path = natsu-shaders/AstrayFX
 	url = https://github.com/BlueSkyDefender/AstrayFX
-[submodule "natsu-shaders/DH"]
-	path = natsu-shaders/DH
-	url = https://github.com/AlucardDH/dh-reshade-shaders.git
-
 [submodule "natsu-shaders/Glamarye"]
 	path = natsu-shaders/Glamarye
 	url = https://github.com/rj200/Glamarye_Fast_Effects_for_ReShade
