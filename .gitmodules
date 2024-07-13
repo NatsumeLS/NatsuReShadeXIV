@@ -1,9 +1,10 @@
-[submodule "natsu-shaders/ReShade"]
-	path = natsu-shaders/ReShade
-	url = https://github.com/crosire/reshade-shaders
 [submodule "natsu-shaders/AstrayFX"]
 	path = natsu-shaders/AstrayFX
 	url = https://github.com/BlueSkyDefender/AstrayFX
+[submodule "natsu-shaders/DH"]
+	path = natsu-shaders/DH
+	url = https://github.com/AlucardDH/dh-reshade-shaders.git
+
 [submodule "natsu-shaders/Glamarye"]
 	path = natsu-shaders/Glamarye
 	url = https://github.com/rj200/Glamarye_Fast_Effects_for_ReShade
@@ -13,6 +14,9 @@
 [submodule "natsu-shaders/qUINT"]
 	path = natsu-shaders/qUINT
 	url = https://github.com/martymcmodding/qUINT
+[submodule "natsu-shaders/ReShade"]
+	path = natsu-shaders/ReShade
+	url = https://github.com/crosire/reshade-shaders
 [submodule "natsu-shaders/ReshadeEffectShaderToggler"]
 	path = natsu-shaders/ReshadeEffectShaderToggler
 	url = https://github.com/4lex4nder/ReshadeEffectShaderToggler
