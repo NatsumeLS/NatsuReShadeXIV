@@ -50,11 +50,11 @@ Focus on being as close to original visual as possible while not being oversatur
 
 ### Previews
 
-<img align="center" src=/docs/Preview_1.jpeg>
-<img align="center" src=/docs/Preview_2.jpeg>
-<img align="center" src=/docs/Preview_3.jpeg>
-<img align="center" src=/docs/Preview_4.jpeg>
-<img align="center" src=/docs/Preview_5.jpeg>
-<img align="center" src=/docs/Preview_6.jpeg>
-<img align="center" src=/docs/Preview_7.jpeg>
-<img align="center" src=/docs/Preview_8.jpeg>
+<img align="center" src=/docs/Preview_1.png>
+<img align="center" src=/docs/Preview_2.png>
+<img align="center" src=/docs/Preview_3.png>
+<img align="center" src=/docs/Preview_4.png>
+<img align="center" src=/docs/Preview_5.png>
+<img align="center" src=/docs/Preview_6.png>
+<img align="center" src=/docs/Preview_7.png>
+<img align="center" src=/docs/Preview_8.png>
