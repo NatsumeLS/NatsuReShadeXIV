@@ -19,3 +19,6 @@
 [submodule "natsu-shaders/ReshadeEffectShaderToggler-FFXIV"]
 	path = natsu-shaders/ReshadeEffectShaderToggler-FFXIV
 	url = https://github.com/4lex4nder/ReshadeEffectShaderToggler-FFXIV
+[submodule "natsu-shaders/HDR"]
+	path = natsu-shaders/HDR
+	url = https://github.com/EndlesslyFlowering/ReShade_HDR_shaders
