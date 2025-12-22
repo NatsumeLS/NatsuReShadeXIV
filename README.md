@@ -12,7 +12,7 @@ A distribution of my ReShade setup with specific configurations tailored toward 
 
 ### 2. Install
 
-Extract `NatsuReShadeXIV_vx.x.zip` at `FINAL FANTASY XIV - A Realm Reborn\game` (Game Location)
+Extract `NatsuReShadeXIV_x.x.zip` at `FINAL FANTASY XIV - A Realm Reborn\game` (Game Location)
 
 Example `C:\Program Files (x86)\SquareEnix\FINAL FANTASY XIV - A Realm Reborn\game`
 
