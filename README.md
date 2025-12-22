@@ -45,9 +45,7 @@ Focus on being as close to original visual as possible while not being oversatur
 > - Global Illumination
 > - Subsurface Scattering
 > - Always On Depth of Field
-> - Ambient Occlusion
 > - Eye Adaption
-> - Anti Aliasing
 
 ### Previews
 
