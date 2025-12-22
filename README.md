@@ -16,15 +16,16 @@ Extract `NatsuReShadeXIV_vx.x.zip` at `FINAL FANTASY XIV - A Realm Reborn\game` 
 
 Example `C:\Program Files (x86)\SquareEnix\FINAL FANTASY XIV - A Realm Reborn\game`
 
-### 3. Important In-Game Settings
+### 3. Important Settings
 
-**NVIDIA DLSS** is supported if the DLAA Only Patch is applied.
+**Dalamud Experimental Settings**
+- ReShade handlling mode: Hook ReShade::DXGISwapChain::OnPresent
 
-**Display Settings**
+**FFXIV Display Settings**
 - Full Screen Mode Gamma Correction: 50
 - Character Lighting: 25
 
-**Graphic Settings**
+**FFXIV Graphic Settings**
 - Graphics Upscaling: AMD FSR
 - 3D Resolution Scaling: 100
 - Enable dynamic resolution.: Disabled
