@@ -22,3 +22,6 @@
 [submodule "natsu-shaders/HDR"]
 	path = natsu-shaders/HDR
 	url = https://github.com/EndlesslyFlowering/ReShade_HDR_shaders
+[submodule "natsu-shaders/potatoFX"]
+	path = natsu-shaders/potatoFX
+	url = https://github.com/GimleLarpes/potatoFX
